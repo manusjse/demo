@@ -1,7 +1,7 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
-    "keywords": ["V2Ray"],
+    "name": "KZVM",
+    "description": "Deploy KZVM on Heroku.",
+    "keywords": ["KZVM"],
     "env": {
         "ID": {
             "description": "UUID",
